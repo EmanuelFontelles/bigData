@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/machineLearning.git/master?urlpath=lab)
 
-> This repo is developed by [Emanuel Fontelles](https://github.com/emanuelfontelles).*
+> This repo is developed by [Emanuel Fontelles](https://github.com/emanuelfontelles).
 > 
 > Theses notebooks contained here are implementations of basics scrutures on PySpark.
 > 
